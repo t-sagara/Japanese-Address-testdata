@@ -1,2 +1,6 @@
-# TestDataOfJapaneseAddresses
-解析が難しい日本の住所のテストデータセット
+# Japanese-Address-testdata
+
+解析が難しい日本の住所のテストデータセット。
+
+「この解析は間違っている」「この住所も難しい」などありましたら
+ぜひお知らせください。
